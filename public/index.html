@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home - Jelajah Rasa</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <nav class="bg-white">
+      <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+        <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
+          <img src="/public/image/logo.png" class="h-8" alt="Logo" />
+          <span class="self-center text-2xl font-semibold whitespace-nowrap">CitaRasa</span>
+        </a>
+        <div class="flex md:order-2">
+          <div class="relative hidden md:block">
+            <div class="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
+              <svg class="w-4 h-4 text-gray-500" aria-hidden="true" fill="none" viewBox="0 0 20 20">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z" />
+              </svg>
+              <span class="sr-only">Search icon</span>
+            </div>
+            <input type="text" id="search-navbar" class="block w-full p-2 ps-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500" placeholder="Search..." />
+          </div>
+        </div>
+        <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-search">
+          <div class="relative mt-3 md:hidden">
+            <input type="text" id="search-navbar" class="block w-full p-2 ps-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500" placeholder="Search..." />
+          </div>
+          <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white">
+            <li>
+              <a href="#" class="block py-2 px-3 text-white rounded md:bg-transparent md:text-orange-500 md:p-0" aria-current="page">HOME</a>
+            </li>
+            <li>
+              <a href="#about" class="block py-2 px-3 text-gray-900 rounded hover:text-orange-500 md:hover:bg-transparent md:hover:text-orange-500 md:p-0">ABOUT</a>
+            </li>
+            <li>
+              <a href="#" class="block py-2 px-3 text-gray-900 rounded hover:text-orange-500 md:hover:bg-transparent md:hover:text-orange-500 md:p-0">ALL RECIPES</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <hr class="h-px my-1 bg-gray-200 border-0" />
+
+    <h1 class="mb-4 mt-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl text-center">RECIPES</h1>
+
+    <div class="flex justify-center">
+      <div class="container max-w-screen-lg grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div class="flex flex-col mx-3 mt-6 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 sm:grow sm:basis-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg" src="/public/image/makanan-pembuka.jpg" alt="Appetizer" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Appetizer</h5>
+          </div>
+        </div>
+        <div class="flex flex-col mx-3 mt-6 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 sm:grow sm:basis-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg" src="/public/image/makanan-utama.jpg" alt="Main Course" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Main Course</h5>
+          </div>
+        </div>
+        <div class="flex flex-col mx-3 mt-6 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 sm:grow sm:basis-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg" src="/public/image/makanan-penutup.jpg" alt="Dessert" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Dessert</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="h-px my-1 bg-gray-200 border-0" />
+
+    <div class="pl-80">
+      <h1 class="mb-4 mt-2 font-bold text-base leading-none tracking-tight text-gray-900 md:text-base lg:text-4xl text-start">Browse Recipes</h1>
+    </div>
+    <div class="flex justify-center">
+      <div class="container max-w-screen-lg grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 mx-auto">
+        <div class="flex flex-col mx-2 mt-2 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg object-scale-down h-20 w-48" src="/public/image/vegetarian.png" alt="Vegetarian" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Vegetarian</h5>
+          </div>
+        </div>
+        <div class="flex flex-col mx-2 mt-2 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg object-scale-down h-20 w-48" src="/public/image/soups.png" alt="Soups" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Soups</h5>
+          </div>
+        </div>
+        <div class="flex flex-col mx-2 mt-2 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg object-scale-down h-20 w-48" src="/public/image/seafood.png" alt="Seafoods" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Seafood</h5>
+          </div>
+        </div>
+        <div class="flex flex-col mx-2 mt-2 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg object-scale-down h-20 w-48" src="/public/image/pasta.png" alt="Pasta" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Pasta</h5>
+          </div>
+        </div>
+        <div class="flex flex-col mx-2 mt-2 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg object-scale-down h-20 w-48" src="/public/image/chicken.png" alt="Chicken" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Chicken</h5>
+          </div>
+        </div>
+        <div class="flex flex-col mx-2 mt-2 rounded-lg bg-white text-surface shadow-secondary-1 hover:shadow-lg transition-shadow duration-300 sm:shrink-0 max-w-xs">
+          <a href="#!">
+            <img class="rounded-t-lg object-scale-down h-20 w-48" src="/public/image/burger.png" alt="Burger" />
+          </a>
+          <div class="p-1">
+            <h5 class="mb-2 text-2xl font-medium leading-tight text-center">Burger</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="h-px my-1 bg-gray-200 border-0" />
+
+    <div class="pl-80">
+      <h1 class="mb-8 mt-2 font-bold text-base leading-none tracking-tight text-gray-900 md:text-base lg:text-4xl text-start">Latest Blog</h1>
+    </div>
+
+    <div class="flex justify-center">
+      <div class="container max-w-screen-lg gap-4 mx-auto">
+        <div class="mb-5">
+          <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-center gap-y-8 lg:gap-y-0 flex-wrap md:flex-wrap lg:flex-nowrap lg:flex-row lg:justify-between lg:gap-x-8">
+              <div class="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
+                <div class="flex items-center">
+                  <img src="/public/image/makanan-nasigoreng.jpg" alt="nasi goreng" class="rounded-t-2xl w-full object-cover" />
+                </div>
+                <div class="p-4 lg:p-6 rounded-b-2xl group-hover:bg-gray-50">
+                  <span class="text-orange-500 font-medium mb-3 block">Oct 04, 2024</span>
+                  <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">Discover the Rich Flavors of Nasi Goreng</h4>
+                  <p class="text-gray-500 leading-6 mb-10">
+                    Dive into the world of Nasi Goreng, Indonesia's beloved fried rice. This post explores traditional recipes, variations, and tips to make the perfect plate that captures the essence of Indonesian cui...
+                  </p>
+                  <a href="#" class="cursor-pointer text-lg text-orange-500 font-semibold">View Post ></a>
+                </div>
+              </div>
+              <div class="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
+                <div class="flex items-center">
+                  <img src="/public/image/makanan-rendang.jpg" alt="rendang" class="rounded-t-2xl w-full object-cover" />
+                </div>
+                <div class="p-4 lg:p-6 rounded-b-2xl group-hover:bg-gray-50">
+                  <span class="text-orange-500 font-medium mb-3 block">Oct 03, 2024</span>
+                  <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">Savoring the Spicy Delight of Rendang</h4>
+                  <p class="text-gray-500 leading-6 mb-10">
+                    Uncover the secrets behind Rendang, a slow-cooked beef dish that is a staple in Indonesian kitchens. Learn about the unique spices that make this dish so special and how to prep...
+                  </p>
+                  <a href="#" class="cursor-pointer text-lg text-orange-500 font-semibold">View Post ></a>
+                </div>
+              </div>
+              <div class="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
+                <div class="flex items-center">
+                  <img src="/public/image/makanan-jalanan.jpg" alt="makanan jalanan" class="rounded-t-2xl w-full object-cover" />
+                </div>
+                <div class="p-4 lg:p-6 rounded-b-2xl group-hover:bg-gray-50">
+                  <span class="text-orange-500 font-medium mb-3 block">Oct 01, 2024</span>
+                  <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">The Ultimate Guide to Indonesian Street Food</h4>
+                  <p class="text-gray-500 leading-6 mb-10">
+                    Experience the vibrant flavors of Indonesian street food with our ultimate guide. From Satay to Gorengan, explore must-try dishes and tips for recreating the street food experience in your o...
+                  </p>
+                  <a href="#" class="cursor-pointer text-lg text-orange-500 font-semibold">View Post ></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="flex justify-center items-center mb-10">
+      <button type="button" class="py-4 px-8 text-lg font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-orange-500 focus:z-10 focus:ring-4 focus:ring-gray-100">
+        Explore Latest Blogs >
+      </button>
+    </div>
+
+    <hr class="h-px my-1 bg-gray-200 border-0" />
+
+    <div id="about" class="flex justify-center bg-white-200">
+      <div class="container max-w-screen-lg grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2 gap-4 mx-auto">
+        <div class="flex justify-center items-center py-36">
+          <div class="text-center">
+            <img class="w-40 h-40 mb-3 rounded-full shadow-lg" src="/public/image/foto.jpeg" alt="Profile image" />
+            <h5 class="mb-1 text-2xl font-semibold text-gray-900">Adam Rifky</h5>
+          </div>
+        </div>
+        <div class="flex justify-center items-center py-36">
+          <div class="w-full max-w-md bg-white border border-gray-200 rounded-lg shadow p-6">
+            <div class="flex flex-col items-center text-center">
+              <h5 class="mb-2 text-2xl font-semibold text-gray-900">Recipes Blog</h5>
+              <p class="text-sm text-gray-600">
+                I’m Adam, a food enthusiast who loves food. Although I dont cook, I like to share a collection of delicious recipes. This blog is dedicated to all the food lovers out there. Join me in discovering the joy of food, one recipe
+                at a time!
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="bg-amber-100">
+      <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+        <div class="md:flex md:justify-between">
+          <div class="mb-6 md:mb-0">
+            <a href="#" class="flex items-center">
+              <img src="/public/image/logo.png" class="h-8 me-3" alt="Logo" />
+              <span class="self-center text-2xl font-semibold whitespace-nowrap">CitaRasa</span>
+            </a>
+          </div>
+          <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-2">
+            <div>
+              <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase">Resources</h2>
+              <ul class="text-gray-500 font-medium">
+                <li class="mb-4">
+                  <a href="https://www.dapurumami.com/resep" class="hover:underline">Dapur Umami</a>
+                </li>
+                <li>
+                  <a href="https://www.doku.com/blog/category/umkm/" class="hover:underline">Doku</a>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase">Follow me</h2>
+              <ul class="text-gray-500 font-medium">
+                <li class="mb-4">
+                  <a href="https://instagram.com/adam_rifky_s" class="hover:underline">Instagram</a>
+                </li>
+                <li>
+                  <a href="https://github.com/adamrifky" class="hover:underline">Github</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
+        <div class="sm:flex sm:items-center sm:justify-between">
+          <span class="text-sm text-gray-500 sm:text-center">© 2024 <a href="#" class="hover:underline">CitaRasa</a>. All Rights Reserved.</span>
+          <div class="flex mt-4 sm:justify-center sm:mt-0">
+            <a href="#" class="ms-5">
+              <img src="/public/image/instagram.png" class="w-8 h-8" alt="Instagram" />
+              <span class="sr-only">Instagram</span>
+            </a>
+            <a href="#" class="ms-5">
+              <img src="/public/image/github.png" class="w-8 h-8" alt="GitHub" />
+              <span class="sr-only">GitHub</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
