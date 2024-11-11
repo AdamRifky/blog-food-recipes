@@ -17,7 +17,7 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/padang-satay-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
@@ -44,6 +44,7 @@
         </div>
     </main>
 
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -110,8 +111,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/padang-satay-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/padang-satay-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Sauté the Spice Paste</h2>
                             <p class="pb-10">Heat the cooking oil in a pan. Sauté the spice paste until fragrant and cooked through.</p>
@@ -119,7 +120,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/padang-satay-3.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-3.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Add Additional Seasonings</h2>
                             <p class="pb-10">Add the lemongrass, kaffir lime leaves, turmeric leaf, cinnamon stick, cloves, and bay leaves to the pan. Cook until aromatic.</p>
@@ -127,7 +128,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/padang-satay-4.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-4.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Incorporate the Beef</h2>
                             <p class="pb-10">Add the boiled and diced beef to the pan. Stir well to coat the beef with the spices.</p>
@@ -135,7 +136,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/padang-satay-5.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-5.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Add Water</h2>
                             <p class="pb-10">Pour in enough water to cover the beef. Cook until the beef is tender and fully cooked.</p>
@@ -143,7 +144,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/padang-satay-6.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-6.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">5. Season the Sauce</h2>
                             <p class="pb-10">Season with salt, sugar, chicken broth powder, and pepper to taste. Adjust the flavors as needed.</p>
@@ -151,7 +152,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/padang-satay-7.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-7.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">6. Prepare for Skewering</h2>
                             <p class="pb-10">Once cooked, separate the beef from the sauce and prepare the skewers for grilling.</p>
@@ -159,7 +160,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/padang-satay-8.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-8.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">7. Strain the Sauce</h2>
                             <p class="pb-10">Strain the sauce to achieve a smooth consistency, discarding any solid pieces.</p>
@@ -167,7 +168,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/padang-satay-9.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-9.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">8. Thicken the Sauce</h2>
                             <p class="pb-10">Gradually add the dissolved rice flour to the strained sauce, stirring continuously until the desired thickness is reached. The sauce should coat the back of a spoon but still flow.</p>
@@ -175,7 +176,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/padang-satay-10.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-10.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">9. Grill the Satay</h2>
                             <p class="pb-10">Grill the skewers over charcoal until nicely charred and cooked through. The smoky flavor enhances the dish.</p>
@@ -183,7 +184,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/padang-satay-11.png" alt="" class="w-80" />
+                        <img src="image/padang-satay-11.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">10. Serve Warm</h2>
                             <p class="pb-10">Serve the Padang Satay hot, drizzled with the thickened sauce and topped with fried shallots.</p>

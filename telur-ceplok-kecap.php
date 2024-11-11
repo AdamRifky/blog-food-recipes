@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Telur Ceplok Kecap - Cita Rasa</title>
+    <title>Fried Eggs with Soy Sauce - Cita Rasa</title>
     <link href="src/output.css" rel="stylesheet" />
 </head>
 
@@ -17,14 +17,14 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/telur-ceplok-kecap-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
                                 <p class="text-gray-600 pb-5 text-xs">OCTOBER 8, 2024</p>
-                                <h2 class="text-7xl font-bold pb-5">Telur Ceplok Kecap</h2>
+                                <h2 class="text-7xl font-bold pb-5">Fried Eggs with Soy Sauce</h2>
                                 <p class="pb-10">
-                                    Telur ceplok kecap is a simple yet flavorful dish that combines the richness of fried eggs with a savory sauce made from sweet soy sauce, oyster sauce, and a hint of salt. This dish is not only quick to prepare but also packed with nutrients, making it a perfect choice for a wholesome meal. Whether you're looking for a quick breakfast, a satisfying lunch, or a comforting dinner, telur ceplok kecap offers a delicious solution that can be served with steamed rice or enjoyed on its own. Let’s dive into this easy recipe that promises to bring warmth and comfort to your table!
+                                    Fried eggs with soy sauce is a simple yet flavorful dish that combines the richness of fried eggs with a savory sauce made from sweet soy sauce, oyster sauce, and a hint of salt. This dish is not only quick to prepare but also packed with nutrients, making it a perfect choice for a wholesome meal. Whether you're looking for a quick breakfast, a satisfying lunch, or a comforting dinner, telur ceplok kecap offers a delicious solution that can be served with steamed rice or enjoyed on its own. Let’s dive into this easy recipe that promises to bring warmth and comfort to your table!
                                 </p>
                             </div>
                             <div class="flex flex-row pt-5">
@@ -44,6 +44,7 @@
         </div>
     </main>
 
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -93,8 +94,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/telur-ceplok-kecap-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/telur-ceplok-kecap-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Prepare the Ingredients</h2>
                             <p class="pb-10">Gather all the ingredients. Slice the shallots, garlic, and bird's eye chilies.</p>
@@ -102,7 +103,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/telur-ceplok-kecap-3.png" alt="" class="w-80" />
+                        <img src="image/telur-ceplok-kecap-3.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Fry the Eggs</h2>
                             <p class="pb-10">Heat a non-stick skillet and add cooking oil and margarine. Crack the eggs into the skillet and fry them until the whites are set and the yolks are cooked to your liking. Remove the eggs and set them aside.</p>
@@ -110,7 +111,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/telur-ceplok-kecap-4.png" alt="" class="w-80" />
+                        <img src="image/telur-ceplok-kecap-4.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Sauté the Aromatics</h2>
                             <p class="pb-10">In the same skillet with the remaining oil, sauté the sliced shallots, garlic, and chilies until they are golden and fragrant.</p>
@@ -118,7 +119,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/telur-ceplok-kecap-5.png" alt="" class="w-80" />
+                        <img src="image/telur-ceplok-kecap-5.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Make the Sauce and Serve</h2>
                             <p class="pb-10">Add sweet soy sauce, oyster sauce, soy sauce, salt, and water to the skillet. Bring the mixture to a boil. Once it’s boiling, gently add the fried eggs back into the skillet and let them cook for a moment to absorb the flavors. Your telur ceplok kecap is ready to be served! Enjoy it hot with steamed rice or as a standalone dish.</p>

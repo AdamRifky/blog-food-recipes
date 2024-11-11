@@ -17,7 +17,7 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/ground-chicken-soup-rice-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
@@ -44,6 +44,7 @@
         </div>
     </main>
 
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -102,8 +103,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/ground-chicken-soup-rice-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/ground-chicken-soup-rice-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Sauté the Aromatics</h2>
                             <p class="pb-10">Heat the vegetable oil in a pot. Sauté the chopped onion and crushed garlic until they become soft and fragrant. Remove from heat.</p>
@@ -111,7 +112,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/ground-chicken-soup-rice-3.png" alt="" class="w-80" />
+                        <img src="image/ground-chicken-soup-rice-3.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Cook the Chicken</h2>
                             <p class="pb-10">Add the ground chicken to the pot and stir until it changes color.</p>
@@ -119,7 +120,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/ground-chicken-soup-rice-4.png" alt="" class="w-80" />
+                        <img src="image/ground-chicken-soup-rice-4.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Add the Vegetables:</h2>
                             <p class="pb-10">Incorporate the carrots, potatoes, and mushrooms. Stir until the vegetables start to soften. Pour in enough water to cover the ingredients, then season with ground pepper, nutmeg, chicken broth powder, and salt. Adjust the taste as needed. Add the radish and cook until it becomes slightly tender.</p>
@@ -127,7 +128,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/ground-chicken-soup-rice-5.png" alt="" class="w-80" />
+                        <img src="image/ground-chicken-soup-rice-5.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Finish the Soup</h2>
                             <p class="pb-10">Add the green beans, cabbage, and chopped green onion. Cook for a few more minutes and then turn off the heat.</p>
@@ -135,7 +136,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/ground-chicken-soup-rice-6.png" alt="" class="w-80" />
+                        <img src="image/ground-chicken-soup-rice-6.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">5. Serve</h2>
                             <p class="pb-10">In a bowl, place a serving of warm white rice and ladle the chicken soup over it. Top with fried garlic and chopped green onion. Your ground chicken soup rice is ready to be enjoyed!</p>

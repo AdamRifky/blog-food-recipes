@@ -17,7 +17,7 @@
     <div class="w-9/12 mx-auto">
       <div class="flex gap-10 py-10">
         <div>
-          <div class="flex flex-row pb-5">
+          <div class="flex flex-row">
             <img src="image/potrait-rendang.png" alt="" class="w-96" />
             <div class="pl-20">
               <p class="text-gray-600 pb-5 text-xs">OCTOBER 4, 2024</p>
@@ -46,6 +46,8 @@
       </div>
     </div>
   </main>
+
+  <hr class="h-px my-1 bg-gray-200 border-0" />
 
   <main>
     <div class="w-9/12 mx-auto pb-5">
@@ -96,8 +98,8 @@
     <div class="w-9/12 mx-auto">
       <div class="flex gap-10 py-10">
         <div class="">
-          <div class="basis-1/2 flex flex-row py-5">
-            <img src="image/rendang-1.png" alt="" class="w-80" />
+          <div class="basis-1/2 flex flex-row pb-5">
+            <img src="image/rendang-1.png" alt="" class="w-52" />
             <div class="pl-4">
               <h2 class="text-xl font-bold pb-5">1. Prepare the Beef</h2>
               <p class="pb-10">Slice the beef thinly, rinse, and place it in a pot of boiling water. Add kaffir lime leaves and bay leaf to the water for extra flavor.</p>
@@ -105,7 +107,7 @@
           </div>
           <hr class="h-px my-1 bg-gray-200 border-0" />
           <div class="basis-1/2 flex flex-row-reverse py-5">
-            <img src="image/rendang-2.png" alt="" class="w-80" />
+            <img src="image/rendang-2.png" alt="" class="w-52" />
             <div class="pr-4">
               <h2 class="text-xl font-bold pb-5">2. Boil the Beef</h2>
               <p class="pb-10">Let the beef simmer for about 1 to 1.5 hours, or until tender. Drain the beef but save the broth for later.</p>
@@ -113,8 +115,8 @@
           </div>
           <hr class="h-px my-1 bg-gray-200 border-0" />
           <div class="basis-1/2 flex flex-row py-5">
-            <img src="image/rendang-3.png" alt="" class="w-80 mr-5" />
-            <img src="image/rendang-4.png" alt="" class="w-80" />
+            <img src="image/rendang-3.png" alt="" class="w-52 mr-5" />
+            <img src="image/rendang-4.png" alt="" class="w-52" />
             <div class="pl-4">
               <h2 class="text-xl font-bold pb-5">3. Sauté the Spices</h2>
               <p class="pb-10">Grind or blend the shallots and garlic into a paste. Sauté this mixture until fragrant, then add the instant spice mix. Be careful not to let it burn, as it could give the rendang a bitter taste.</p>
@@ -122,7 +124,7 @@
           </div>
           <hr class="h-px my-1 bg-gray-200 border-0" />
           <div class="basis-1/2 flex flex-row-reverse py-5">
-            <img src="image/rendang-5.png" alt="" class="w-80" />
+            <img src="image/rendang-5.png" alt="" class="w-52" />
             <div class="pr-4">
               <h2 class="text-xl font-bold pb-5">4. Combine and Cook</h2>
               <p class="pb-10">Add the beef to the pan and mix well with the spices. Pour in the reserved broth and the coconut milk.</p>
@@ -130,7 +132,7 @@
           </div>
           <hr class="h-px my-1 bg-gray-200 border-0" />
           <div class="basis-1/2 flex flex-row py-5">
-            <img src="image/rendang-6.png" alt="" class="w-80" />
+            <img src="image/rendang-6.png" alt="" class="w-52" />
             <div class="pl-4">
               <h2 class="text-xl font-bold pb-5">5. Season</h2>
               <p class="pb-10">Add sugar, MSG, and sweet soy sauce to taste. Stir, cover, and let simmer until the sauce has thickened and absorbed.</p>
@@ -138,7 +140,7 @@
           </div>
           <hr class="h-px my-1 bg-gray-200 border-0" />
           <div class="basis-1/2 flex flex-row-reverse py-5">
-            <img src="image/rendang-7.png" alt="" class="w-80" />
+            <img src="image/rendang-7.png" alt="" class="w-52" />
             <div class="pr-4">
               <h2 class="text-xl font-bold pb-5">6. Adjust and Serve</h2>
               <p class="pb-10">Taste and adjust seasoning as needed. Serve hot with rice, and enjoy your simplified rendang!</p>
@@ -198,7 +200,7 @@
 
   <!--Java Scripts-->
   <script src="comments.js"></script>
-  
+
   <!-- Footer -->
   <?php include "footer.html"; ?>
 </body>

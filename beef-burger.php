@@ -17,7 +17,7 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/beef-burger-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
@@ -43,7 +43,8 @@
             </div>
         </div>
     </main>
-
+    
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -97,8 +98,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/beef-burger-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/beef-burger-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Prepare the Ingredients</h2>
                             <p class="pb-10">Gather all the ingredients you will need for the burger.</p>
@@ -106,7 +107,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/beef-burger-3.png" alt="" class="w-80" />
+                        <img src="image/beef-burger-3.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Cook the Patties</h2>
                             <p class="pb-10">Heat a non-stick skillet and add 1/2 tablespoon of Rose Brand margarine. Grill the beef patties, flipping them occasionally until they are cooked to your desired doneness.</p>
@@ -114,7 +115,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/beef-burger-4.png" alt="" class="w-80" />
+                        <img src="image/beef-burger-4.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Toast the Buns</h2>
                             <p class="pb-10">Spread margarine on the inside of each burger bun. Lightly toast them in the skillet for a short time until they are golden and warm.</p>
@@ -122,9 +123,9 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/beef-burger-7.png" alt="" class="w-80" />
-                        <img src="image/beef-burger-6.png" alt="" class="w-80 mr-5" />
-                        <img src="image/beef-burger-5.png" alt="" class="w-80 mr-5" />
+                        <img src="image/beef-burger-7.png" alt="" class="w-52" />
+                        <img src="image/beef-burger-6.png" alt="" class="w-52 mr-5" />
+                        <img src="image/beef-burger-5.png" alt="" class="w-52 mr-5" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Assemble the Burger</h2>
                             <p class="pb-10">Remove the toasted buns from the skillet. Spread ketchup, chili sauce, and mayonnaise on the inside of the buns. Layer with the cooked beef patties, followed by fresh vegetables (sliced tomato, cucumber, and lettuce), and top with a slice of cheese. Close the burger with the other half of the bun that has been spread with sauce and mayonnaise. Your delicious beef burger is now ready to be enjoyed!</p>

@@ -17,7 +17,7 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/special-pindang-fried-rice-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
@@ -44,6 +44,7 @@
         </div>
     </main>
 
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -90,8 +91,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/special-pindang-fried-rice-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/special-pindang-fried-rice-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Prepare the Rice</h2>
                             <p class="pb-10">Cook the rice in advance for best texture when frying.</p>
@@ -99,7 +100,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/special-pindang-fried-rice-4.png" alt="" class="w-80" />
+                        <img src="image/special-pindang-fried-rice-4.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Prepare the Fish</h2>
                             <p class="pb-10">Wash the pindang fish thoroughly to remove any residual white flesh, which can give the rice an overly fishy smell. Soak the fish briefly in tamarind water with salt, then fry it lightly until golden, avoiding overcooking.</p>
@@ -107,7 +108,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/special-pindang-fried-rice-5.png" alt="" class="w-80" />
+                        <img src="image/special-pindang-fried-rice-5.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Make the Spice Paste</h2>
                             <p class="pb-10">Blend the chili peppers, shallots, and garlic. Add a little water if needed to help blend. Sauté the paste in hot oil until it’s fragrant and slightly browned.</p>
@@ -115,7 +116,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/special-pindang-fried-rice-6.png" alt="" class="w-80" />
+                        <img src="image/special-pindang-fried-rice-6.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Combine and Cook</h2>
                             <p class="pb-10">Add the shredded fried fish to the spice mixture and stir well. Then, add the rice and mix thoroughly until the rice is evenly coated with the spices.</p>
@@ -123,7 +124,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/special-pindang-fried-rice-1.png" alt="" class="w-80" />
+                        <img src="image/special-pindang-fried-rice-1.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">5. Season</h2>
                             <p class="pb-10">Add salt and instant seasoning, adjusting to taste. Serve hot, garnished with cucumber slices and enjoy your pindang fried rice!</p>

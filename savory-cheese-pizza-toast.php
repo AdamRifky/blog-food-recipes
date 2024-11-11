@@ -17,7 +17,7 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/savory-cheese-pizza-toast-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
@@ -44,6 +44,7 @@
         </div>
     </main>
 
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -86,8 +87,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/savory-cheese-pizza-toast-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/savory-cheese-pizza-toast-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Prepare the Mushrooms</h2>
                             <p class="pb-10">Boil water in a pot. Wash the champignon or shiitake mushrooms, dry them with a paper towel, and cut them into small pieces.</p>
@@ -95,7 +96,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/savory-cheese-pizza-toast-3.png" alt="" class="w-80" />
+                        <img src="image/savory-cheese-pizza-toast-3.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Blanch the Mushrooms</h2>
                             <p class="pb-10">Blanch the mushrooms in boiling salted water for 5 minutes, then drain and set aside.</p>
@@ -103,7 +104,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/savory-cheese-pizza-toast-4.png" alt="" class="w-80" />
+                        <img src="image/savory-cheese-pizza-toast-4.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Prepare the Bread</h2>
                             <p class="pb-10">While the mushrooms cool, take the vegan bread out of the freezer and spread the Bolognese sauce evenly over the surface of the bread.</p>
@@ -111,7 +112,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/savory-cheese-pizza-toast-5.png" alt="" class="w-80" />
+                        <img src="image/savory-cheese-pizza-toast-5.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Add Toppings</h2>
                             <p class="pb-10">Sprinkle the dairy-free cheese over the Bolognese-covered bread. Add the halved cherry tomatoes on top.</p>
@@ -119,7 +120,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/savory-cheese-pizza-toast-6.png" alt="" class="w-80" />
+                        <img src="image/savory-cheese-pizza-toast-6.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">5. Bake the Toast</h2>
                             <p class="pb-10">Preheat the oven. While it heats up, add some slices of meat-free spam on top of the toast if desired. Sprinkle with oregano and parsley if using. Bake for 15-20 minutes until the bread is toasted and the cheese is melted.</p>

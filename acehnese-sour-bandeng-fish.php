@@ -17,7 +17,7 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/acehnese-sour-bandeng-fish-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
@@ -44,6 +44,7 @@
         </div>
     </main>
 
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -93,8 +94,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/acehnese-sour-bandeng-fish-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/acehnese-sour-bandeng-fish-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Prepare the Fish</h2>
                             <p class="pb-10">Clean the bandeng fish, cut it into pieces, and wash it thoroughly. Squeeze lime juice over the fish and let it marinate for about 10 minutes, then rinse.</p>
@@ -102,7 +103,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/acehnese-sour-bandeng-fish-3.png" alt="" class="w-80" />
+                        <img src="image/acehnese-sour-bandeng-fish-3.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Make the Spice Paste</h2>
                             <p class="pb-10">In a mortar and pestle or blender, grind the garlic, red chilies, turmeric, coriander powder, and ground pepper until smooth.</p>
@@ -110,7 +111,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/acehnese-sour-bandeng-fish-4.png" alt="" class="w-80" />
+                        <img src="image/acehnese-sour-bandeng-fish-4.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Cook the Fish</h2>
                             <p class="pb-10">In a pot, combine the bandeng fish, the ground spice paste, kaffir lime leaves, and chopped belimbing wuluh. Add enough water to cover the ingredients and bring to a boil.</p>
@@ -118,7 +119,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/acehnese-sour-bandeng-fish-5.png" alt="" class="w-80" />
+                        <img src="image/acehnese-sour-bandeng-fish-5.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Simmer and Season</h2>
                             <p class="pb-10">Once boiling, let it simmer until the liquid reduces slightly. Add the curry leaves and whole bird's eye chilies. Season with salt, chicken broth powder, and sugar. Continue cooking until the fish is fully cooked. Taste and adjust the seasoning if necessary.</p>
@@ -126,7 +127,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/acehnese-sour-bandeng-fish-1.png" alt="" class="w-80" />
+                        <img src="image/acehnese-sour-bandeng-fish-1.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">5. Serve</h2>
                             <p class="pb-10">Your Acehnese sour bandeng fish is ready to be served! Enjoy it hot with a side of steamed white rice.</p>

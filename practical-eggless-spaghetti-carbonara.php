@@ -17,7 +17,7 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/practical-eggless-spaghetti-carbonara-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
@@ -44,6 +44,7 @@
         </div>
     </main>
 
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -89,8 +90,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/practical-eggless-spaghetti-carbonara-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/practical-eggless-spaghetti-carbonara-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Cook the Spaghetti</h2>
                             <p class="pb-10">In a large pot, bring water to a boil and add a little oil. Cook the spaghetti according to package instructions until al dente. Drain and set aside.</p>
@@ -98,7 +99,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/practical-eggless-spaghetti-carbonara-3.png" alt="" class="w-80" />
+                        <img src="image/practical-eggless-spaghetti-carbonara-3.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Sauté Aromatics and Sausages</h2>
                             <p class="pb-10">In a pan, heat a little cooking oil or margarine over medium heat. Add minced garlic and chopped onion, sautéing until fragrant. Then, add the sliced sausages and cook until heated through.</p>
@@ -106,7 +107,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/practical-eggless-spaghetti-carbonara-4.png" alt="" class="w-80" />
+                        <img src="image/practical-eggless-spaghetti-carbonara-4.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Prepare the Sauce</h2>
                             <p class="pb-10">Pour in the UHT milk and add the grated mozzarella cheese. Stir until the cheese melts and the mixture is well combined.</p>
@@ -114,7 +115,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/practical-eggless-spaghetti-carbonara-5.png" alt="" class="w-80" />
+                        <img src="image/practical-eggless-spaghetti-carbonara-5.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Combine with Spaghetti</h2>
                             <p class="pb-10">Add the cooked spaghetti to the sauce mixture. Sprinkle in the chicken broth powder, ground pepper, and oregano. Mix well and cook until the sauce thickens slightly.</p>
@@ -122,7 +123,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/practical-eggless-spaghetti-carbonara-1.png" alt="" class="w-80" />
+                        <img src="image/practical-eggless-spaghetti-carbonara-1.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">5. Serve</h2>
                             <p class="pb-10">Your eggless spaghetti carbonara is ready to be served! Garnish with additional oregano if desired.</p>

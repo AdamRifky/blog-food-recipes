@@ -17,7 +17,7 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div>
-                    <div class="flex flex-row pb-5">
+                    <div class="flex flex-row">
                         <img src="image/stir-fried-green-beans-with-beef-1.png" alt="" class="w-96" />
                         <div class="pl-20 flex flex-col justify-between">
                             <div>
@@ -47,6 +47,7 @@
         </div>
     </main>
 
+    <hr class="h-px my-1 bg-gray-200 border-0" />
 
     <main>
         <div class="w-9/12 mx-auto pb-5">
@@ -93,8 +94,8 @@
         <div class="w-9/12 mx-auto">
             <div class="flex gap-10 py-10">
                 <div class="">
-                    <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/stir-fried-green-beans-with-beef-2.png" alt="" class="w-80" />
+                    <div class="basis-1/2 flex flex-row pb-5">
+                        <img src="image/stir-fried-green-beans-with-beef-2.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">1. Marinate the Beef</h2>
                             <p class="pb-10">In a bowl, combine the sliced beef with the sauce ingredients and mix well to coat the beef evenly.</p>
@@ -102,7 +103,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/stir-fried-green-beans-with-beef-3.png" alt="" class="w-80" />
+                        <img src="image/stir-fried-green-beans-with-beef-3.png" alt="" class="w-52" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">2. Sauté Garlic and Beef</h2>
                             <p class="pb-10">Heat oil in a pan and sauté the minced garlic until fragrant. Add the marinated beef and stir-fry until the beef changes color. Add a little water to help with the cooking process.</p>
@@ -110,7 +111,7 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row py-5">
-                        <img src="image/stir-fried-green-beans-with-beef-4.png" alt="" class="w-80" />
+                        <img src="image/stir-fried-green-beans-with-beef-4.png" alt="" class="w-52" />
                         <div class="pl-4">
                             <h2 class="text-xl font-bold pb-5">3. Season and Cook</h2>
                             <p class="pb-10">Season with salt and mushroom broth, cooking until the beef is tender and fully cooked. Then, add the onion wedges and stir until they soften.</p>
@@ -118,8 +119,8 @@
                     </div>
                     <hr class="h-px my-1 bg-gray-200 border-0" />
                     <div class="basis-1/2 flex flex-row-reverse py-5">
-                        <img src="image/stir-fried-green-beans-with-beef-1.png" alt="" class="w-80" />
-                        <img src="image/stir-fried-green-beans-with-beef-5.png" alt="" class="w-80 mr-5" />
+                        <img src="image/stir-fried-green-beans-with-beef-1.png" alt="" class="w-52" />
+                        <img src="image/stir-fried-green-beans-with-beef-5.png" alt="" class="w-52 mr-5" />
                         <div class="pr-4">
                             <h2 class="text-xl font-bold pb-5">4. Add Green Beans and Serve</h2>
                             <p class="pb-10">Add the trimmed green beans to the pan and stir-fry for about 2 minutes until they are bright green and tender-crisp. Remove from heat and serve hot.</p>
