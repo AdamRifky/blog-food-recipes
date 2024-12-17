@@ -17,7 +17,7 @@
     <div class="w-9/12 mx-auto">
       <div class="flex flex-col place-items-center">
         <div class="flex items-center">
-          <h1 class="text-4xl mt-3 font-extrabold text-orange-500">CITARASA RECIPES</h1>
+          <h1 class="text-4xl mt-3 font-extrabold text-orange-500">ADAM BERHASIL UPDATE</h1>
         </div>
       </div>
       <div class="grid grid-cols-3 gap-10 py-10">
