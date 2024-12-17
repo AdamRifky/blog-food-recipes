@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ADAM suka FEMBOY</title>
+  <title>ADAM</title>
   <link href="src/output.css" rel="stylesheet" />
 </head>
 
