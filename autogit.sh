@@ -1,2 +1,2 @@
-cd /var/www/testing/blog-food-recipes
+cd /var/www/damz
 git pull -X theirs
