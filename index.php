@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>FOOD</title>
+  <title>FOOD ADAM</title>
   <link href="src/output.css" rel="stylesheet" />
 </head>
 
